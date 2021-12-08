@@ -1,0 +1,2 @@
+# Languages
+Translations for SmartServers.
